@@ -99,6 +99,16 @@
     margin-bottom: .25rem;
 }
 
+.pokemon .weight {
+    text-transform: capitalize;
+    color: #fff;
+    margin-bottom: .1rem;
+    font-size: .8rem;
+    opacity: .8;
+    padding-left: 5px;
+
+}
+
 .pokemon .detail {
     display: flex;
     flex-direction: row;
